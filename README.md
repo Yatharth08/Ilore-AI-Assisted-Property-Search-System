@@ -14,11 +14,11 @@ This project will require the use of natural language processing (NLP) technique
 
 
 Process Map / Architecture
-![Image](./asset/Archtecture_Iter1.jpeg)
+![Image](./assets/Archtecture_Iter1.jpeg)
 
 
 User Interface
-![Image](./asset/image.png)
+![Image](./assets/image.png)
 
 
 To run frontend file:
