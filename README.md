@@ -1,0 +1,2 @@
+# Ilore-AI-Assisted-Property-Search-System
+The project aims to develop a system using user input to prompt a LLM to extract real estate property entities from a housing website. The system extracts fields like address, price range, property type, no. of bedrooms, &amp; bathrooms etc, &amp; uses AI techniques like NLP to rerank results based on ravine features, improving search efficiency &amp; accuracy
